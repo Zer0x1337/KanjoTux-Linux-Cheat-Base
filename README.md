@@ -4,3 +4,8 @@
 
 # The only Cheat Feature in this Example
 - Everything costs $1
+
+How to Build & Run:
+  
+    sudo gcc main.c -o KanjoHack
+    sudo ./KanjoHack
