@@ -10,6 +10,7 @@
     #include <stdlib.h>
 
     int u_option = 1;
+
      
     struct StockPid
     {
