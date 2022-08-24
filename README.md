@@ -1,4 +1,5 @@
 # Kanjozoku-Linux-Cheat-Base
-Currently being used for the game Kanjozoku 
-# The only Feature in this example
+- Currently being used for the game Kanjozoku 
+- Can be used for pretty much any game
+# The only Cheat Feature in this Example
 - Everything costs $1
