@@ -8,6 +8,9 @@
 #How to Build & Run
 
 Build:
+
     sudo gcc main.c -o KanjoHack
+    
 Run:
+
     sudo ./KanjoHack
