@@ -15,6 +15,3 @@ Run:
 
     sudo ./KanjoHack
     
-Build & Run:
-
-    sudo gcc main.c -o KanjoHack && sudo ./KanjoHack
