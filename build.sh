@@ -13,4 +13,5 @@ fi
 CFLAGS="-I../gui -Wall -std=c11 -pedantic `sdl2-config --libs` $GLFLAG -lm -O3 -g"
 
 gcc main.c -Igui gui/renderer.c -Igui gui/microui.c -o KanjoTux $CFLAGS
+gcc cheat/main.c -o cheat/cheat.run
 
