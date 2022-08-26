@@ -1,7 +1,10 @@
 # About KanjoTux
-- Currently being used for the game Kanjozoku 
+- Made from pieces of the internet :)
 - Can be used for pretty much any game
-- Uses https://github.com/rxi/microui
+
+# Resources
+- https://www.linuxjournal.com/article/6210
+- https://github.com/rxi/microui
 
 # Features
 - Infinite Money
