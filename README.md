@@ -2,8 +2,9 @@
 - Currently being used for the game Kanjozoku 
 - Can be used for pretty much any game
 
-# The only Cheat Feature in this Example
-- Everything costs $1
+# Features
+- Infinite Money
+- Sell cars for $10000000
 
 # How to Build & Run
 
