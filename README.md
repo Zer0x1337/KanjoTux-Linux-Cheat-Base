@@ -1,4 +1,4 @@
-# About this Base
+# About this
 - Currently being used for the game Kanjozoku 
 - Can be used for pretty much any game
 
@@ -9,9 +9,12 @@
 
 Build:
 
-    sudo gcc main.c -o KanjoHack
+    sudo ./build.sh
     
 Run:
 
-    sudo ./KanjoHack
+    sudo ./KanjoTux
+    
+# Screenshot    
+![alt text](https://cdn.discordapp.com/attachments/998409424261619742/1012560011144200232/unknown.png)
     
