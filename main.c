@@ -39,11 +39,11 @@ static void test_window(mu_Context *ctx)
       mu_layout_row(ctx, 3, (int[]) { 86, -110, -1 }, 0);
 
       if (mu_button(ctx, "Inf Money")) { 
-        system("gnome-terminal --execute sudo ./cheats/inf_money/inf_money");
+        system("gnome-terminal --execute sudo ./cheat/cheat.run 1");
         system("clear");
       }
       if (mu_button(ctx, "Sell Exploit")) { 
-        system("gnome-terminal --execute sudo ./cheats/sell_exploit/sell_exploit");
+        system("gnome-terminal --execute sudo ./cheat/cheat.run 2");
         system("clear");
       }
       if (mu_button(ctx, "Coming Soon")) { 
