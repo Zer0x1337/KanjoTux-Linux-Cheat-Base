@@ -1,4 +1,4 @@
-# About this
+# About KanjoTux
 - Currently being used for the game Kanjozoku 
 - Can be used for pretty much any game
 
