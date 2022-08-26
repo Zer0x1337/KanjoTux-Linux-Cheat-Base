@@ -17,15 +17,14 @@ Check this out: https://www.linuxjournal.com/article/6210
 #include <string.h>
 #include <fcntl.h>
 #include <stdlib.h>
-//#include "../offsets.h"
+#include "../offsets.h"
 
 int u_option;
 int loop = 1;
 
 
 // offsets
-int long sellxploit_addr = 0x161c98838;
-int long infmoney_addr = 0x161c98854;
+
 
 
 struct StockPid
