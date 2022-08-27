@@ -1,5 +1,5 @@
 # About KanjoTux
-- Made from pieces of the internet :)
+- Made to help others learn
 - Can be used for pretty much any game
 
 # Resources
