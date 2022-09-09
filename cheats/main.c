@@ -20,7 +20,7 @@ Check this out: https://www.linuxjournal.com/article/6210
 #include "../offsets.h"
 
 int u_option;
-int loop = 1;
+//int loop = 1;
 
 
 // offsets
@@ -103,7 +103,7 @@ void WriteProcessMemory(unsigned long address, int pid) {
     }
         
 
-    while (loop != 0) {
+    for {
 
      
         int err_code = ptrace(PTRACE_ATTACH, stockthepid.pid, NULL, NULL);
@@ -137,7 +137,7 @@ void WriteProcessMemory(unsigned long address, int pid) {
             exit(-1);
         }
 
-        sleep(1);
+        sleep(200);
     }
 }
      
